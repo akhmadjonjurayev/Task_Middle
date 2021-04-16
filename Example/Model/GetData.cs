@@ -10,9 +10,9 @@ namespace Example.Model
         public static List<Author> GetAuthors() => new List<Author>()
             {
                 new Author(){FirstName="Akhmadjon",LastName="Jurayev",Emailaddress="formyproject1999@gmail.com",PhoneNumber="+998946644275",DialyNews=true},
-                new Author(){FirstName="Yakhyo",LastName="Abdualimov",Emailaddress="chunchakiadres@gmail.com",PhoneNumber="+998903239974"},
-                new Author(){FirstName="Najmiddin",LastName="Najirov",Emailaddress="nazirov97@gmail.com",PhoneNumber="+998915479900"},
-                new Author(){FirstName="Jurabek",LastName="Rahmonov",Emailaddress="rahmonov@gmail.com",PhoneNumber="+998945059989"},
+                new Author(){FirstName="Yakhyo",LastName="Abdualimov",Emailaddress="shunchakiadres@gmail.com",PhoneNumber="+998903239974"},
+                new Author(){FirstName="Najmiddin",LastName="Najirov",Emailaddress="jurayevakhmadjon@gmail.com",PhoneNumber="+998915479900"},
+                new Author(){FirstName="Jurabek",LastName="Rahmonov",Emailaddress="akmal.otaboboyev.2@gmail.com",PhoneNumber="+998945059989"},
                 new Author(){FirstName="Akmal",LastName="Otaboboyev",Emailaddress="akmal.otaboboyev@gmail.com",PhoneNumber="+998903346467"}
             };
         public static List<Category> GetCategory() => new List<Category>()
